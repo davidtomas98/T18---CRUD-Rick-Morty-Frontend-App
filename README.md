@@ -38,6 +38,7 @@ The server will start and listen on `http://localhost:3000/`. It has two main en
 
 ## AWS Integration
 
+[https://main.d1xhaafsrsj4ko.amplifyapp.com/]
 
 ## Further Help
 
